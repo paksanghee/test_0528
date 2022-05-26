@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 void main(){
 
 int num;
 num=1;
 
 }
+=======
+int main(){}
+>>>>>>> parent of 9cbea1d (num 변수 추가)
