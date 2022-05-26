@@ -2,6 +2,7 @@
 void main(){
 
 int num;
+num=1;
 
 }
 =======
