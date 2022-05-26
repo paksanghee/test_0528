@@ -1,14 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 void main(){
 
 int num;
 
 }
-=======
-int main(){}
->>>>>>> parent of 9cbea1d (num 변수 추가)
 =======
 int main(){}
 >>>>>>> parent of 9cbea1d (num 변수 추가)
