@@ -11,5 +11,6 @@ printf("실험적인 시도");
 printf("master");
 printf("실험2");
 /// 마스터용 주석
+충돌!!!
 }
 
