@@ -9,7 +9,7 @@ double d=3.14;
 printf("%d",date);
 printf("실험적인 시도");
 printf("master");
-printf("실험+ master merge");
+printf("실험2");
 
 }
 
