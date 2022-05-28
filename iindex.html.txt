@@ -4,8 +4,10 @@ int num;
 int date=0528;
 double d=3.14;
 
+/*주석 추가*/
 printf("%d",date);
 printf("실험적인 시도");
 printf("master");
+
 }
 
