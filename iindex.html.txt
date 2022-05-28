@@ -1,5 +1,5 @@
 void main(){
 
 int num;
-
+double d=3.14
 }
