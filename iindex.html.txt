@@ -4,6 +4,6 @@ int num;
 int date=0528;
 
 printf("%d",date);
-
+printf("실험적인 시도");
 }
 
