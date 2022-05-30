@@ -23,6 +23,12 @@ printf("실험2");
 원격저장소
 동기화
 push
+<<<<<<< Updated upstream
 으아악
+=======
+
+stash
+
+>>>>>>> Stashed changes
 }
 
