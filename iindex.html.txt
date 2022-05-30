@@ -4,13 +4,14 @@
 # 0530 sh 작성
 # conflict tmflffj4663+sh
 //silhum3
-// 실험3+master 
+// 실험3+master
+ 
 void main(){
 
 int num;
 const *char ="done";
 int date=0528;
-double d=3.14;
+double d=5.14;
 
 /*주석 추가*/
 printf("%d",date);
